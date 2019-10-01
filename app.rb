@@ -9,7 +9,7 @@ get '/hello' do
 end
 
 get '/goodbye' do
-
+	erb :goodbye
 end
 
 end
